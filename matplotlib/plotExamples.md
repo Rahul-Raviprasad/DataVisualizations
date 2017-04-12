@@ -3,8 +3,10 @@
 ## General approach
 
 
-#### Format string 3rd argument to plot method:
-The letters and symbols of the format string are from MATLAB, and you concatenate a color string with a line style string. The default format string is ‘b-‘, which is a solid blue line
+#### Code explanation
+Format string 3rd argument :'ro': The letters and symbols of the format string are from MATLAB, and you concatenate a color string with a line style string. The default format string is ‘b-‘, which is a solid blue line
+
+The axis() command in the example above takes a list of [xmin, xmax, ymin, ymax] and specifies the viewport of the axes.
 
 ```python
 import matplotlib.pyplot as plt
