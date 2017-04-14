@@ -3,6 +3,8 @@ A repo for storing data visualization codes and examples
 
 ## Finding Data
 There are many sources for data, here are a few data sources to play around with.
+Many a times we will see that getting the data in a form that we can work with it in sckit-learn or other machine learning tools is quite difficult.
+We will require Pandas and NumPy's help to get in a format that scikit-learn can consume.
 
 ### Open Government Data(OGD) Platform India
 https://data.gov.in/
