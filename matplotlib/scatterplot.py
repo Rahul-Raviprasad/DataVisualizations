@@ -34,6 +34,7 @@ print(len(iris.data))
 print(iris.data[0])
 # output: [ 5.1  3.5  1.4  0.2]
 
+# Generally target is the y value that we are trying to predict. there are 3 flowers so values are 0, 1, 2.
 print(iris.target)
 
 # output:
@@ -43,6 +44,7 @@ print(iris.target)
 # 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
 # 2 2]
 
+# printing the target names
 print(iris.target_names)
 
 # output: ['setosa' 'versicolor' 'virginica']
@@ -50,7 +52,11 @@ print(iris.target_names)
 import numpy as np
 import matplotlib.pyplot as plt
 
-x_index = 0
+# Changing the values of x_index and y_index will allow us to plot scatter plot between different dimensions
+# it is good practice when you have a new data to plot it in different dimensions. This will
+# allow us to see which two dimensions seperates our targets better.
+
+x_index = 2
 y_index = 1
 
 # this formatter will label the colorbar with the correct target names
