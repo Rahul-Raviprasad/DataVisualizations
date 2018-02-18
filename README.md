@@ -17,3 +17,7 @@ They come in three flavors:
 * Packaged Data: these small datasets are packaged with the scikit-learn installation, and can be downloaded using the tools in sklearn.datasets.load_*
 * Downloadable Data: these larger datasets are available for download, and scikit-learn includes tools which streamline this process. These tools can be found in sklearn.datasets.fetch_*
 * Generated Data: there are several datasets which are generated from models based on a random seed. These are available in the sklearn.datasets.make_*
+
+
+## Data Visualization using D3
+I am maintaining a separate repo for this.
