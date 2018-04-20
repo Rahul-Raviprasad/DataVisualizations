@@ -179,3 +179,10 @@ plt.title('Fruits')
 plt.show()
 
 ```
+
+## How to load data from files and external sources
+#### CSV
+you can use the csv module, import it and use to get data from files.
+
+### Numpy
+Or you can also you the numpy module, specify the delimiters and get data from files.
