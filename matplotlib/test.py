@@ -27,7 +27,7 @@ def graph_data(stock):
                                                           # %H = hours
                                                           # %M = minutes
                                                           # %S = seconds
-                                                          converters={0: bytespdate2num('')})
+                                                          converters={0: bytespdate2num('%Y%m%d')})
 
     plt.xlabel('x')
     plt.ylabel('y')
