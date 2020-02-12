@@ -1,0 +1,246 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Miyapur"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.372668,17.496628]
+      },
+        "id":"1"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "JNTU"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.389212, 17.498659]
+      },
+      "id":"2"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "KPHB"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.401883, 17.493707]
+      },
+      "id":"3"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Kukatpally"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.411399, 17.485316]
+      },
+      "id":"4"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Moosapet"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.426039, 17.471930]
+      },
+      "id":"5"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Bharat Nagar"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.430005, 17.464218]
+      },
+      "id":"6"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Erragada"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.433579, 17.457077]
+      },
+      "id":"7"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "ESI"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.438463, 17.447240]
+      },
+      "id":"8"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "S.R. Nagar"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.441707, 17.441485]
+      },
+      "id":"9"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Ameerpet"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.444730, 17.435533]
+      },
+      "id":"10"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Begumpet"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.456915, 17.437349]
+      },
+      "id":"11"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Madhura Nagar"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.439143, 17.436894]
+      },
+      "id":"12"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Yousufguda"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.427194, 17.434940]
+      },
+      "id":"13"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Road No. 5 Jubliee Hills"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.422981, 17.430077]
+      },
+      "id":"14"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Jubliee Hills Check post"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.413737, 17.428183]
+      },
+      "id":"15"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Peddamma Gudi"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.408629, 17.430567]
+      },
+      "id":"16"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Madhapur"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.400459, 17.437189]
+      },
+      "id":"17"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Durgam Chevuru"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.387710, 17.442631]
+      },
+      "id":"18"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Hi tech City"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.383292, 17.448819]
+      },
+      "id":"19"
+    },
+    {
+      "type":"Feature",
+      "properties": {
+        "pointType": "Metro",
+        "metroStationName": "Rai Durg"
+      },
+      "geometry": {
+        "type":"Point",
+        "coordinates":[78.377103, 17.442227]
+      },
+      "id":"20"
+    }
+
+  ]
+}
